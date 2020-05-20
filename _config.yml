@@ -1,13 +1,13 @@
 # Site settings
 title: 小莲LOVE小强
-SEOTitle: 大张LOVE小张 | BY Blog
+SEOTitle: 大张LOVE小张 | BY zwq
 header-img: img/post-bg-desk.JPG
-email: qiubaiying@gmail.com
+email: 754246835@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 大张LOVE小张, zhangwenqiang, 张文强, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://github.com/zhangwenqiang66/zhangwenqiang66.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/zhangwenqiang66/zhangwenqiang66.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -23,7 +23,7 @@ zhihu_username:     张文强
 github_username:    zhangweniang66.github.io
 facebook_username:  大张爱小张
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   zwq
 
 
 
